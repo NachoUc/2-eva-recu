@@ -1,0 +1,122 @@
+p.titulo{
+    font-size: 50px;
+    text-shadow: orangered 5px 0px 0px;
+    color: white;
+    font-family: 'Akaya Kanadaka';
+}
+a.menu{
+    color: white;
+    font-size: 20px;
+    border: orangered 2px solid;
+    background-color: rgb(247, 141, 102);
+    padding-left: 3px;
+    padding-right: 3px;
+    margin: 5px;
+}
+a.menu:hover{
+    background-color: orangered;
+}
+body{
+    background-color: rgb(246, 246, 129);
+}
+header{
+    background-color: rgb(247, 141, 102);
+    padding: 10px;
+    text-align: center;
+    margin-top: -9px;
+}
+div.caja{
+    background-color: rgb(250, 174, 146);
+    padding: 20px;
+    text-align: center;
+    margin-top: 8%;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 6px orangered solid;
+    color: orangered;
+    text-decoration: underline;
+    border-top-left-radius: 20px;
+    border-bottom-style: dotted;
+    border-top-style: dashed;
+    border-right-style: double;
+    letter-spacing: 3px;
+}
+.texto{
+    padding-bottom: 15%;
+    margin-top: -2%;
+    margin-left: 18%;
+    margin-right: 18%;
+}
+footer{
+    background-color: rgb(242, 242, 80);
+    text-align: center;
+    margin-top: 10%;
+    color: red;
+}
+.cajamenu{
+    background-color: rgb(242, 242, 80);
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    border: 5px orangered solid;
+    border-style: dashed;
+    margin-top: -3px;
+}
+div.productos{
+    color: orangered;
+    margin-left: 46%;
+}
+li.princi{
+    list-style-type: decimal;
+    margin-left: -1%;
+}
+li.princeso{
+    list-style-type: decimal;
+    margin-left: -110px;
+    list-style-type: none;
+}
+li{
+    font-weight: bold;
+    font-size: 17px;
+    margin: 14px;
+   
+}
+li.uno{
+    list-style-type: upper-roman;
+    margin-left: -4%;
+}
+li.dos{
+    list-style-type: upper-roman;
+    margin-left: -38px;
+}
+li.cuatro{
+    list-style-type: upper-roman;
+    margin-left: -58px;
+}
+li.cinco{
+    list-style-type: upper-roman;
+    margin-left: -58px;
+}
+li.secuda{
+    list-style-type: upper-roman;
+    margin-left: -7%;
+}
+h2.buff{
+    margin-left: 12px;
+}
+.formu{
+    background-color: rgb(253, 185, 129);
+    float: right;
+    margin-left: 45%;
+    margin-right: 10%;
+    margin-top: -300px;
+    color: white;
+}
+form label{
+    margin: 10px;
+}
+.akaya-kanadaka-regular {
+    font-family: "Akaya Kanadaka", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
