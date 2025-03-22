@@ -12,6 +12,7 @@ a.menu{
     padding-left: 3px;
     padding-right: 3px;
     margin: 5px;
+    text-decoration: underline rgb(247, 141, 102);
 }
 a.menu:hover{
     background-color: orangered;
